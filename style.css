@@ -48,6 +48,12 @@ header {
 		background-color: rgba(20,20,20,.3);
 		color:#FFE5CC;
 	}
+
+	.contact a {
+			text-decoration: none;
+			color: #99ddff;
+	}
+
 	.ET {
 		font-family: 'Cedarville Cursive', cursive;
 		font-size: 25px;
